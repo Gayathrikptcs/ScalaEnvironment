@@ -1,6 +1,5 @@
 package com.ica.commons
 
-import de.dlh.smile.engine.commons.{Environment, LoadedProperties}
 import com.typesafe.config.{ConfigFactory, ConfigObject, ConfigValue}
 import org.apache.spark.sql.Column
 import org.apache.spark.sql.functions._
